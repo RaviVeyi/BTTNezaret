@@ -5,8 +5,8 @@
 <p align="center">
     Yaratdığınız botları bir botda nümayiş etdirmək üçün hazırlanmış nodejs bot.
     <br>
-        <a href="https://t.me/sirvaninblogu">Kanalımız</a> |
-        <a href="https://t.me/alphasupportaz">Support'umuza gələrək dəstək alın.</a>
+        <a href="https://t.me/lovelesslifee">Kanalımız</a> |
+        <a href="https://t.me/LaviniaFamly">Support'umuza gələrək dəstək alın.</a>
     <br>
 
 # Server'ə quraşdır
@@ -25,4 +25,4 @@ Daha sonra deploya başlayın👇
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Goqerti/Botlist"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 # Creator 👨🏻‍💻
-Bu bot [Şirvan](https://t.me/sirvhan) tərəfindən sıfırdan kodlanmışdır credits verdiyiniz müddətcə istifadə edə bilərsiniz ;)
+Bu bot [HACKER](https://t.me/BenimHacker) tərəfindən sıfırdan kodlanmışdır credits verdiyiniz müddətcə istifadə edə bilərsiniz ;)
