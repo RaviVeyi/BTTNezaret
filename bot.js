@@ -1,4 +1,4 @@
-// Bu Bot t.me/Sirvhan tərəfindən kodlanmışdır.
+// Bu Bot t.me/HACKER tərəfindən kodlanmışdır.
 // Credits verdiyiniz halda istifadə edə bilərsiniz.
 
 const { Telegraf,Telegram  } = require('telegraf')
@@ -14,7 +14,7 @@ bot.start(ctx=>{
             reply_markup: {
                 inline_keyboard: [
                     [{text: "Owner 👨🏻‍💻",callback_data: "bot"},{text: "Haqqımızda ℹ",callback_data: "haqqimizda"}],
-                    [{text: "BTT Botlar 👨🏻‍💻 ",url: "https://t.me/BTTBotlar"}]
+                    [{text: "HACKER Botlar 👨🏻‍💻 ",url: "https://t.me/Hackerbotsarena"}]
                 ]
             }
         }
@@ -42,7 +42,7 @@ bot.action("gizlilik",ctx=>{
          reply_markup: {
                 inline_keyboard: [
                     [{ text: "👨🏻 Ana Səhifə", callback_data: "yenidenstart" }],
-                    [{ text: "BTT Botlar 👨🏻‍💻", url: "https://t.me/BTTBotlar" }],
+                    [{ text: "HACKER Botlar 👨🏻‍💻", url: "https://t.me/Hackerbotsarena" }],
                 ]
             }
         }
@@ -56,7 +56,7 @@ bot.action("yenidenstart",ctx=>{
             reply_markup: {
                 inline_keyboard: [
                     [{text: "Owner 👨🏻‍💻",callback_data: "bot"},{text: "Haqqımızda ℹ",callback_data: "haqqimizda"}],
-                    [{text: "BTT Botlar 👨🏻‍💻",url: "https://t.me/BTTBotlar"}]
+                    [{text: "HACKER Botlar 👨🏻‍💻",url: "https://t.me/Hackerbotsarena"}]
                 ]
             }
         }
@@ -71,7 +71,7 @@ bot.action("bot",ctx=>{
             reply_markup: {
                 inline_keyboard: [
                     [{text: "🎮 Sizin oyun bot adı",callback_data: "game"},{text: "🇦🇿 Sizin Music bot",callback_data: "music"}],
-                    [{text: "BTT Botlar 👨🏻‍💻",url: "https://t.me/BTTBotlar"}]
+                    [{text: "HACKER Botlar 👨🏻‍💻",url: "https://t.me/Hackerbotsarena"}]
                 ]
             }
         }
@@ -84,8 +84,8 @@ bot.action("music",ctx=>{
         {
             reply_markup: {
                 inline_keyboard: [
-                    [{text: "👨🏻 Ana Səhifə",callback_data: "yenidenstart"},{text: "Kömək ℹ",url: "https://t.me/sizinbotadı?start"}],
-                    [{text: "Bot'u qruplarınıza Əlavə edin✅",url: "https://t.me/sizinbotadı?startgroup=a"}]
+                    [{text: "👨🏻 Ana Səhifə",callback_data: "yenidenstart"},{text: "Kömək ℹ",url: "https://t.me/LaviniaFamly?start"}],
+                    [{text: "Bot'u qruplarınıza Əlavə edin✅",url: "https://t.me/LaviniaFamly?startgroup=a"}]
                 ]
             }
         }
@@ -98,8 +98,8 @@ bot.action("game",ctx=>{
         {
             reply_markup: {
                 inline_keyboard: [
-                    [{text: "👨🏻 Ana Səhifə",callback_data: "yenidenstart"},{text: "Kömək ℹ",url: "http://t.me/BTTNezaretBot?start"}],
-                    [{text: "Bot'u qruplarınıza Əlavə edin✅",url: "http://t.me/BTTNezaretBotstartgroup=a"}]
+                    [{text: "👨🏻 Ana Səhifə",callback_data: "yenidenstart"},{text: "Kömək ℹ",url: "https://t.me/lovelesslifee"}],
+                    [{text: "Bot'u qruplarınıza Əlavə edin✅",url: "http://t.me/lovelesslifeestartgroup=a,,"}]
                 ]
             }
         }
